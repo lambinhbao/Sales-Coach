@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Sales Coach
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+Sales Coach do B Coaching phát triển
 
 
